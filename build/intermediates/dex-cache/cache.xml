@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PEPE\AndroidStudioProjects\MyPockemon\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\PEPE\AndroidStudioProjects\MyPockemon\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fbcde864a87acc314c6481884ac01d1392224225\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PEPE\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0-RC0\d5dd0afc50069b7fa0fc12ac85f91efa8df4db67\annotations-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5dd0afc50069b7fa0fc12ac85f91efa8df4db67">
+        <dex dex="C:\Users\PEPE\AndroidStudioProjects\MyPockemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-4.0.0-RC0_1c6291a500ccf7e179f1f225e45791daa9511568\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PEPE\.android\build-cache\0aa28e20df94a680071628ea963e20c04bbf47c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\PEPE\AndroidStudioProjects\MyPockemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4cadd742c9646b2f3ac4ecedeb7068e0af0671bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PEPE\.android\build-cache\96dd3a3317a4992b916090fee366276f6bdd064b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\PEPE\AndroidStudioProjects\MyPockemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6f238253b545c45f1a2d6d64481269e2e7ab7ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PEPE\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0-RC0\c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7\gifdecoder-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7">
+        <dex dex="C:\Users\PEPE\AndroidStudioProjects\MyPockemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\gifdecoder-4.0.0-RC0_0d8455880f16c96a8cc7689ad00d50d902d4a8ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PEPE\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0-RC0\eb86cd1d96acc30dcebf338abaf2c62ca28bf355\glide-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb86cd1d96acc30dcebf338abaf2c62ca28bf355">
+        <dex dex="C:\Users\PEPE\AndroidStudioProjects\MyPockemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-4.0.0-RC0_b6075ac7dea0253a66993648e4cae965da347fa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PEPE\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0-RC0\46d23cdc19155c5f0d47ece99ca1c421346c1509\disklrucache-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="46d23cdc19155c5f0d47ece99ca1c421346c1509">
+        <dex dex="C:\Users\PEPE\AndroidStudioProjects\MyPockemon\app\build\intermediates\transforms\dex\debug\folders\1000\10\disklrucache-4.0.0-RC0_a8693068b793ff5c152c3bc31ac7e5c9455c35c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PEPE\AndroidStudioProjects\MyPockemon\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84ab3be892bccf97d6caa7218b66498e9e90e542">
+        <dex dex="C:\Users\PEPE\AndroidStudioProjects\MyPockemon\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_56111524287ee139c8ab74465f77e4fc50f22747\classes.dex" />
+    </item>
+
+</items>

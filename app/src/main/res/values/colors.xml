@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="hielo">#00d9d9</color>
+    <color name="agua">#006dd9</color>
+    <color name="bicho">#298d00</color>
+    <color name="dragon">#a408e5</color>
+    <color name="electrico">#f9ff0c</color>
+    <color name="fantasma">#764ad1</color>
+    <color name="fuego">#f68701</color>
+    <color name="hada">#FF4081</color>
+</resources>
